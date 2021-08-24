@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saka kamil
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA Programming Language.
 - 💞️ I’m looking to collaborate on any JAVA related project
 - 📫 How to reach me sakakamil18@gmail.com
 
